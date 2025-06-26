@@ -1,0 +1,23 @@
+{
+  "name": "uc10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BielDias2501/UC10_JOEL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BielDias2501/UC10_JOEL/issues"
+  },
+  "homepage": "https://github.com/BielDias2501/UC10_JOEL#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  }
+}
