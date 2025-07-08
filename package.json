@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,6 @@
   },
   "homepage": "https://github.com/Joel-Santos/turma115-UC10#readme",
   "devDependencies": {
-    "jest": "^30.0.3"
+    "jest": "^30.0.4"
   }
 }
